@@ -1,0 +1,15 @@
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\bin\Debug\net6.0\TotaldeVotos.exe
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\bin\Debug\net6.0\TotaldeVotos.deps.json
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\bin\Debug\net6.0\TotaldeVotos.runtimeconfig.json
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\bin\Debug\net6.0\TotaldeVotos.dll
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\bin\Debug\net6.0\TotaldeVotos.pdb
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\obj\Debug\net6.0\TotaldeVotos.csproj.AssemblyReference.cache
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\obj\Debug\net6.0\TotaldeVotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\obj\Debug\net6.0\TotaldeVotos.AssemblyInfoInputs.cache
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\obj\Debug\net6.0\TotaldeVotos.AssemblyInfo.cs
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\obj\Debug\net6.0\TotaldeVotos.csproj.CoreCompileInputs.cache
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\obj\Debug\net6.0\TotaldeVotos.dll
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\obj\Debug\net6.0\refint\TotaldeVotos.dll
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\obj\Debug\net6.0\TotaldeVotos.pdb
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\obj\Debug\net6.0\TotaldeVotos.genruntimeconfig.cache
+C:\Users\yuri.ramos.f.souza\source\repos\TotalDeVotos\TotaldeVotos\obj\Debug\net6.0\ref\TotaldeVotos.dll
